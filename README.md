@@ -1,4 +1,4 @@
-# Terminal
+<h1 align="center"> Terminal W.I.P </h1>
 A tkinter version "Terminal"
 
 ## View:
