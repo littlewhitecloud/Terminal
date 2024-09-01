@@ -3,10 +3,8 @@
 A `Tkinter` version `Terminal`
 
 ### Gallery
-![image](https://github.com/user-attachments/assets/e75305a4-8fdb-4136-9ca1-6314ffe489d1)
-![image](https://github.com/user-attachments/assets/0a121ab5-9b75-41d7-a76d-b79cd4b3995d)
-
-
+![image](https://github.com/user-attachments/assets/018c1315-fc94-4ee5-a2a5-396dfb48a471)
+![image](https://github.com/user-attachments/assets/585911d4-0e37-481e-80ec-c8871f8c082d)
 
 ### Run
 ```console
